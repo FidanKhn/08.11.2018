@@ -1,0 +1,19 @@
+#mainSection {
+  padding: 30px 0px;
+  background: url(../img/main-bg.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.free{
+	background: yellow;
+}
+.fluid{
+	color: white;
+}
+#navbarNav a{
+	color: white;
+}
+.one{
+	font-size: 17px;
+	
+}
